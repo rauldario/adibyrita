@@ -1,0 +1,385 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adi.com" resolutions="1x" timestamp="1528070730633">
+  <folder name="css">
+    <file name="site_global.css" crc="4145488968"/>
+    <file name="master_a-master.css" crc="339819784" ref="servicios-copy:quinceanos:guia-de-libros:rotafolios:etiquetas:despedida-de-soltera:baby-shower:servicios:donde-estamos:contactenos:productos-boda:numeros-de-mesa:detalles:cumpleanos:libros-de-firmas:index:etsy:primeras-comuniones"/>
+    <file name="servicios-copy.css" crc="489603745" ref="servicios-copy"/>
+    <file name="iefonts_servicios-copy.css" crc="4226093390" ref="servicios-copy"/>
+    <file name="quinceanos.css" crc="255699400" ref="quinceanos"/>
+    <file name="iefonts_quinceanos.css" crc="3964209171" ref="quinceanos"/>
+    <file name="guia-de-libros.css" crc="360684483" ref="guia-de-libros"/>
+    <file name="iefonts_guia-de-libros.css" crc="3788476332" ref="guia-de-libros"/>
+    <file name="rotafolios.css" crc="409939244" ref="rotafolios"/>
+    <file name="iefonts_rotafolios.css" crc="3716419" ref="rotafolios"/>
+    <file name="etiquetas.css" crc="4261716917" ref="etiquetas"/>
+    <file name="iefonts_etiquetas.css" crc="3998098046" ref="etiquetas"/>
+    <file name="despedida-de-soltera.css" crc="4115973199" ref="despedida-de-soltera"/>
+    <file name="iefonts_despedida-de-soltera.css" crc="287642836" ref="despedida-de-soltera"/>
+    <file name="baby-shower.css" crc="438329085" ref="baby-shower"/>
+    <file name="iefonts_baby-shower.css" crc="471254177" ref="baby-shower"/>
+    <file name="servicios.css" crc="288094344" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="4019661653" ref="servicios"/>
+    <file name="donde-estamos.css" crc="33372462" ref="donde-estamos"/>
+    <file name="iefonts_donde-estamos.css" crc="488005076" ref="donde-estamos"/>
+    <file name="contactenos.css" crc="4251151445" ref="contactenos"/>
+    <file name="iefonts_contactenos.css" crc="3818071323" ref="contactenos"/>
+    <file name="productos-boda.css" crc="3798191240" ref="productos-boda"/>
+    <file name="iefonts_productos-boda.css" crc="92231709" ref="productos-boda"/>
+    <file name="numeros-de-mesa.css" crc="3779177040" ref="numeros-de-mesa"/>
+    <file name="iefonts_numeros-de-mesa.css" crc="362796075" ref="numeros-de-mesa"/>
+    <file name="detalles.css" crc="4168689310" ref="detalles"/>
+    <file name="iefonts_detalles.css" crc="4161015150" ref="detalles"/>
+    <file name="cumpleanos.css" crc="3854881388" ref="cumpleanos"/>
+    <file name="iefonts_cumpleanos.css" crc="299346556" ref="cumpleanos"/>
+    <file name="libros-de-firmas.css" crc="186909828" ref="libros-de-firmas"/>
+    <file name="iefonts_libros-de-firmas.css" crc="437372942" ref="libros-de-firmas"/>
+    <file name="index.css" crc="4066426294" ref="index"/>
+    <file name="iefonts_index.css" crc="233170958" ref="index"/>
+    <file name="etsy.css" crc="4283723709" ref="etsy"/>
+    <file name="iefonts_etsy.css" crc="37165994" ref="etsy"/>
+    <file name="primeras-comuniones.css" crc="3944373785" ref="primeras-comuniones"/>
+    <file name="iefonts_primeras-comuniones.css" crc="3760212385" ref="primeras-comuniones"/>
+  </folder>
+  <folder name="assets">
+    <file name="invitacion-ticket-uruguay-01.jpg" crc="4038065811" seo="true" mt="1491197626000"/>
+    <file name="invitacion-ticket-impresion.jpg" crc="3810459074" seo="true" mt="1491197606000"/>
+    <file name="invitacion_animada.mp4" crc="4082741644" seo="true" mt="1481341196000"/>
+    <file name="invitacion-ticket-mexico-01.jpg" crc="3883325776" seo="true" mt="1491197586000"/>
+    <file name="maps-and-buildings-1.jpg" crc="514568938" seo="true" mt="1472366522000"/>
+    <file name="hand-lettering-01.jpg" crc="397326118" seo="true" mt="1483063962000"/>
+    <file name="dibujamos-sus-ideas.jpg" crc="93302871" seo="true" mt="1472688590000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="museutils.js" crc="340535759" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="require.js" crc="7928878" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy"/>
+    <file name="webpro.js" crc="4059564322" ref="productos-boda:contactenos:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="touchswipe.js" crc="4075097462" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="form_check.php" crc="4020933626" ref="contactenos"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contactenos"/>
+    <file name="form_process.php" crc="37464564" ref="contactenos"/>
+    <file name="form-u1272.php" crc="62400313" ref="contactenos"/>
+  </folder>
+  <folder name="images">
+    <file name="watercolor roses.png" crc="3865179963" seo="true" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy">
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="etsy" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="watercolor roses center.png" crc="3875664584" seo="true" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy">
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="pasted-svg-367428x46.svg" crc="396965830" seo="true" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy">
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="pasted svg 367428x46_poster_.png" crc="233964856" ref="index"/>
+    <file name="pasted-svg-25057x25.svg" crc="4165441455" seo="true" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy">
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="pasted svg 25057x25_poster_.png" crc="251394438" ref="index"/>
+    <file name="pasted-svg-252x25.svg" crc="3838370168" seo="true" ref="index:servicios:productos-boda:donde-estamos:contactenos:servicios-copy:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles:etsy">
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+      <caption webpage="detalles" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="pasted svg 252x25_poster_.png" crc="251394438" ref="index"/>
+    <file name="pasted-svg-280x155.svg" crc="4266513212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 280x155_poster_.png" crc="272010509" ref="index"/>
+    <file name="2015-03-30-192704-u544.png" crc="3953152567" ref="index"/>
+    <file name="pasted-svg-279323x116.svg" crc="4203382938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 279323x116_poster_.png" crc="4258026680" ref="index"/>
+    <file name="claqueta-01-crop-u576.jpg" crc="493726496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="invitacion-rv.jpg" crc="118339929" ref="servicios:servicios-copy">
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="invitacion-corazon.jpg" crc="221702931" ref="servicios:servicios-copy">
+      <caption webpage="servicios-copy" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pasted-svg-458474x74.svg" crc="4220873265" seo="true" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas">
+      <caption webpage="rotafolios" alt=""/>
+      <caption webpage="numeros-de-mesa" alt=""/>
+      <caption webpage="guia-de-libros" alt=""/>
+      <caption webpage="libros-de-firmas" alt=""/>
+      <caption webpage="primeras-comuniones" alt=""/>
+      <caption webpage="despedida-de-soltera" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="baby-shower" alt=""/>
+      <caption webpage="cumpleanos" alt=""/>
+      <caption webpage="productos-boda" alt=""/>
+      <caption webpage="quinceanos" alt=""/>
+    </file>
+    <file name="pasted svg 458474x74_poster_.png" crc="3968999856" ref="productos-boda"/>
+    <file name="boda-01.jpg" crc="121896323" seo="true" ref="productos-boda">
+      <caption webpage="productos-boda" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="boda-02.jpg" crc="267683872" seo="true" ref="productos-boda">
+      <caption webpage="productos-boda" alt=""/>
+    </file>
+    <file name="invitacion-ticket-kraft-04.jpg" crc="169098473" seo="true" ref="productos-boda">
+      <caption webpage="productos-boda" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="productos-boda:despedida-de-soltera:baby-shower:quinceanos:cumpleanos:primeras-comuniones:rotafolios:numeros-de-mesa:libros-de-firmas:guia-de-libros:etiquetas:detalles"/>
+    <file name="shelf-02.jpg" crc="486652775" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="pasted-svg-252x252.svg" crc="3809335317" seo="true" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="pasted svg 252x25_poster_2.png" crc="251394438" ref="contactenos"/>
+    <file name="pasted-svg-25057x252.svg" crc="247582934" seo="true" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="pasted svg 25057x25_poster_2.png" crc="251394438" ref="contactenos"/>
+    <file name="pasted-svg-26168x26.svg" crc="232895971" seo="true" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="pasted svg 26168x26_poster_.png" crc="348150679" ref="contactenos"/>
+    <file name="pasted-svg-25168x25.svg" crc="304512488" seo="true" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="pasted svg 25168x25_poster_.png" crc="251394438" ref="contactenos"/>
+    <file name="pasted-svg-2169x216.svg" crc="150920782" seo="true" ref="contactenos:etsy">
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="etsy" alt=""/>
+    </file>
+    <file name="pasted svg 2169x216_poster_.png" crc="4037753260" ref="contactenos"/>
+    <file name="shelf-contacto.jpg" crc="447843546" seo="true" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="despedidad-de-soltera-01.jpg" crc="4118245728" seo="true" ref="despedida-de-soltera">
+      <caption webpage="despedida-de-soltera" alt=""/>
+    </file>
+    <file name="despedidad-de-soltera-02.jpg" crc="4261563412" seo="true" ref="despedida-de-soltera">
+      <caption webpage="despedida-de-soltera" alt=""/>
+    </file>
+    <file name="despedidad-de-soltera-03.jpg" crc="107157126" seo="true" ref="despedida-de-soltera">
+      <caption webpage="despedida-de-soltera" alt=""/>
+    </file>
+    <file name="f30-crop-u3122.jpg" crc="523037398" seo="true" ref="baby-shower">
+      <caption webpage="baby-shower" alt=""/>
+    </file>
+    <file name="baby-shower-01.jpg" crc="235592816" seo="true" ref="baby-shower">
+      <caption webpage="baby-shower" alt=""/>
+    </file>
+    <file name="baby-shower-02.jpg" crc="53052114" seo="true" ref="baby-shower">
+      <caption webpage="baby-shower" alt=""/>
+    </file>
+    <file name="baby-shower-03.jpg" crc="324996024" seo="true" ref="baby-shower">
+      <caption webpage="baby-shower" alt=""/>
+    </file>
+    <file name="f30-crop-u3606.jpg" crc="523037398" seo="true" ref="quinceanos">
+      <caption webpage="quinceanos" alt=""/>
+    </file>
+    <file name="mis-15-01.jpg" crc="3962874225" seo="true" ref="quinceanos">
+      <caption webpage="quinceanos" alt=""/>
+    </file>
+    <file name="mis-15-02.jpg" crc="79897148" seo="true" ref="quinceanos">
+      <caption webpage="quinceanos" alt=""/>
+    </file>
+    <file name="mis-15-03.jpg" crc="4270270450" seo="true" ref="quinceanos">
+      <caption webpage="quinceanos" alt=""/>
+    </file>
+    <file name="f30-crop-u3825.jpg" crc="523037398" seo="true" ref="cumpleanos">
+      <caption webpage="cumpleanos" alt=""/>
+    </file>
+    <file name="birthday-01.jpg" crc="4013138970" seo="true" ref="cumpleanos">
+      <caption webpage="cumpleanos" alt=""/>
+    </file>
+    <file name="birthday-02.jpg" crc="3796649654" seo="true" ref="cumpleanos">
+      <caption webpage="cumpleanos" alt=""/>
+    </file>
+    <file name="birthday-03.jpg" crc="4106700276" seo="true" ref="cumpleanos">
+      <caption webpage="cumpleanos" alt=""/>
+    </file>
+    <file name="birthday-04.jpg" crc="4101358379" seo="true" ref="cumpleanos">
+      <caption webpage="cumpleanos" alt=""/>
+    </file>
+    <file name="f30-crop-u3951.jpg" crc="523037398" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="primera-comunion-01.jpg" crc="4179616296" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="primera-comunion-02.jpg" crc="4244708697" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="primera-comunion-03.jpg" crc="493489692" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="primera-comunion-04.jpg" crc="148345189" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="primera-comunion-05.jpg" crc="439859330" seo="true" ref="primeras-comuniones">
+      <caption webpage="primeras-comuniones" alt=""/>
+    </file>
+    <file name="rotafolios-01.jpg" crc="4157199805" seo="true" ref="rotafolios">
+      <caption webpage="rotafolios" alt=""/>
+    </file>
+    <file name="numeros-de-mesa-01.jpg" crc="38565110" seo="true" ref="numeros-de-mesa">
+      <caption webpage="numeros-de-mesa" alt=""/>
+    </file>
+    <file name="numeros-de-mesa-02.jpg" crc="406107098" seo="true" ref="numeros-de-mesa">
+      <caption webpage="numeros-de-mesa" alt=""/>
+    </file>
+    <file name="libros de firma 01.jpg" crc="33842601" seo="true" ref="libros-de-firmas">
+      <caption webpage="libros-de-firmas" alt=""/>
+    </file>
+    <file name="libros de firma 02.jpg" crc="459124009" seo="true" ref="libros-de-firmas">
+      <caption webpage="libros-de-firmas" alt=""/>
+    </file>
+    <file name="libros de firma 03.jpg" crc="486654821" seo="true" ref="libros-de-firmas">
+      <caption webpage="libros-de-firmas" alt=""/>
+    </file>
+    <file name="guias-de-libros.jpg" crc="47509164" seo="true" ref="guia-de-libros">
+      <caption webpage="guia-de-libros" alt=""/>
+    </file>
+    <file name="etiquetas-stickers-banderines.jpg" crc="3928231894" seo="true" ref="etiquetas">
+      <caption webpage="etiquetas" alt=""/>
+    </file>
+    <file name="todos los detalles 01a.jpg" crc="287774435" seo="true" ref="detalles">
+      <caption webpage="detalles" alt=""/>
+    </file>
+    <file name="todos los detalles 02a.jpg" crc="4086815944" seo="true" ref="detalles">
+      <caption webpage="detalles" alt=""/>
+    </file>
+    <file name="todos los detalles 03a.jpg" crc="3758570474" seo="true" ref="detalles">
+      <caption webpage="detalles" alt=""/>
+    </file>
+    <file name="todos los detalles 04a.jpg" crc="515079885" seo="true" ref="detalles">
+      <caption webpage="detalles" alt=""/>
+    </file>
+    <file name="adi-etsy-crop-u5611.jpg" crc="513707887" seo="true" ref="etsy">
+      <caption webpage="etsy" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="348645055" seo="true" mt="1528070670874" redirect="true"/>
+  <file name="servicios.html" crc="406042020" seo="true" mt="1528070670875" redirect="true"/>
+  <file name="productos-boda.html" crc="296568706" seo="true" mt="1528070670876" redirect="true"/>
+  <file name="donde-estamos.html" crc="424544170" seo="true" mt="1528070670878" redirect="true"/>
+  <file name="contactenos.html" crc="4241886634" seo="true" mt="1528070670878" redirect="true"/>
+  <file name="servicios-copy.html" crc="4270875575" seo="true" mt="1528070670879" redirect="true"/>
+  <file name="despedida-de-soltera.html" crc="419193006" seo="true" mt="1528070670879" redirect="true"/>
+  <file name="baby-shower.html" crc="217887865" seo="true" mt="1528070670880" redirect="true"/>
+  <file name="quinceanos.html" crc="4011486510" seo="true" mt="1528070670881" redirect="true"/>
+  <file name="cumpleanos.html" crc="3827529877" seo="true" mt="1528070670881" redirect="true"/>
+  <file name="primeras-comuniones.html" crc="201134995" seo="true" mt="1528070670882" redirect="true"/>
+  <file name="rotafolios.html" crc="196406531" seo="true" mt="1528070670882" redirect="true"/>
+  <file name="numeros-de-mesa.html" crc="172749527" seo="true" mt="1528070670883" redirect="true"/>
+  <file name="libros-de-firmas.html" crc="4166878180" seo="true" mt="1528070670884" redirect="true"/>
+  <file name="guia-de-libros.html" crc="83831551" seo="true" mt="1528070670884" redirect="true"/>
+  <file name="etiquetas.html" crc="3915675098" seo="true" mt="1528070670885" redirect="true"/>
+  <file name="detalles.html" crc="153885139" seo="true" mt="1528070670885" redirect="true"/>
+  <file name="etsy.html" crc="3979444796" seo="true" mt="1528070670886" redirect="true"/>
+</manifest>
